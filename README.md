@@ -134,8 +134,7 @@
   <br>
 
   When you want to actually edit a file, you can click or double click on it in
-  the File Tree. The file will then open in a new tab in the text editor.
-
+  the File Tree. The file will then open in a new tab in the text edito
   <br> <br>
 
   <strong>After opening this lab with the "Open IDE" button, use the File Tree
